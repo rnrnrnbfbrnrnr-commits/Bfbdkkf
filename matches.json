@@ -1,74 +1,74 @@
 [
     {
         "sport": "football",
-        "home_team": "Changchun Dazhong Zhuoyue (Women)",
-        "away_team": "Guangdong Province (Women)",
+        "home_team": "Qingdao Hainiu",
+        "away_team": "Chengdu Rongcheng",
         "score": "0-0",
-        "time_minutes": 78,
-        "stream_url": "https://en12.sportplus.live/football/2536179/8035287/"
+        "time_minutes": 5,
+        "stream_url": "https://en12.sportplus.live/football/live/8021319/"
     },
     {
         "sport": "football",
-        "home_team": "Geoje",
-        "away_team": "Incheon Seogot",
-        "score": "1-0",
-        "time_minutes": 73,
-        "stream_url": "https://en12.sportplus.live/football/live/8032458/"
+        "home_team": "Bergisch Gladbach 09",
+        "away_team": "SSVg Velbert",
+        "score": "0-0",
+        "time_minutes": 4,
+        "stream_url": "https://en12.sportplus.live/football/live/8036041/"
     },
     {
         "sport": "football",
-        "home_team": "Namyangju Citizen",
-        "away_team": "Seoul Jungnang",
-        "score": "2-0",
-        "time_minutes": 74,
-        "stream_url": "https://en12.sportplus.live/football/live/8032550/"
-    },
-    {
-        "sport": "football",
-        "home_team": "Busan Transportation Corporation",
-        "away_team": "Gijang United",
-        "score": "2-0",
-        "time_minutes": 36,
-        "stream_url": "https://en12.sportplus.live/football/live/8032457/"
-    },
-    {
-        "sport": "football",
-        "home_team": "Pyeongtaek Citizens",
-        "away_team": "Yeoju",
-        "score": "1-1",
-        "time_minutes": 35,
-        "stream_url": "https://en12.sportplus.live/football/live/8032470/"
+        "home_team": "Royale Union Saint-Gilloise",
+        "away_team": "FCSB",
+        "score": "0-0",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/football/live/8032826/"
     },
     {
         "sport": "football",
         "home_team": "Gyeongju KHNP",
         "away_team": "Seosan Pioneer",
-        "score": "2-0",
-        "time_minutes": 38,
+        "score": "3-0",
+        "time_minutes": 50,
         "stream_url": "https://en12.sportplus.live/football/live/8032471/"
     },
     {
         "sport": "football",
-        "home_team": "Seoul",
-        "away_team": "Incheon United",
-        "score": "0-0",
-        "time_minutes": 6,
-        "stream_url": "https://en12.sportplus.live/football/live/8021242/"
+        "home_team": "Pyeongtaek Citizens",
+        "away_team": "Yeoju",
+        "score": "1-3",
+        "time_minutes": 49,
+        "stream_url": "https://en12.sportplus.live/football/live/8032470/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Busan Transportation Corporation",
+        "away_team": "Gijang United",
+        "score": "2-1",
+        "time_minutes": 47,
+        "stream_url": "https://en12.sportplus.live/football/live/8032457/"
     },
     {
         "sport": "football",
         "home_team": "Gwangju",
         "away_team": "Ulsan Hyundai",
         "score": "0-0",
-        "time_minutes": 6,
+        "time_minutes": 35,
         "stream_url": "https://en12.sportplus.live/football/live/8021243/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Seoul",
+        "away_team": "Incheon United",
+        "score": "0-0",
+        "time_minutes": 35,
+        "stream_url": "https://en12.sportplus.live/football/live/8021242/"
     },
     {
         "sport": "football",
         "home_team": "Gimcheon Sangmu",
         "away_team": "Jeju SK",
         "score": "0-0",
-        "time_minutes": 5,
+        "time_minutes": 34,
         "stream_url": "https://en12.sportplus.live/football/live/8021244/"
     },
     {
@@ -76,143 +76,167 @@
         "home_team": "RTC",
         "away_team": "Ugyen Academy",
         "score": "0-0",
-        "time_minutes": 35,
+        "time_minutes": 48,
         "stream_url": "https://en12.sportplus.live/football/1226377/8032654/"
     },
     {
-        "sport": "hockey",
-        "home_team": "Sparta Krasnoyarsk",
-        "away_team": "Gornyak Chelyabinsk",
+        "sport": "football",
+        "home_team": "Dalian Yingbo II",
+        "away_team": "Qingdao Red Lions",
         "score": "0-0",
-        "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/hockey/2454428/8036141/"
+        "time_minutes": 4,
+        "stream_url": "https://en12.sportplus.live/football/209499/8030404/"
     },
     {
-        "sport": "hockey",
-        "home_team": "Akuly Kaliningrad",
-        "away_team": "Zvezda Samara",
-        "score": "1-0",
-        "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/hockey/2454428/8036159/"
-    },
-    {
-        "sport": "tennis",
-        "home_team": "Patten/Heliovaara",
-        "away_team": "Pavlasek/Rikl",
+        "sport": "football",
+        "home_team": "Taian Tiankuang",
+        "away_team": "Changchun Xidu",
         "score": "0-0",
-        "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/tennis/live/8031493/"
+        "time_minutes": 5,
+        "stream_url": "https://en12.sportplus.live/football/209499/8027448/"
     },
     {
-        "sport": "tennis",
-        "home_team": "Krawietz/Puetz",
-        "away_team": "Cabral/Miedler",
-        "score": "40-40",
-        "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/tennis/live/8031495/"
-    },
-    {
-        "sport": "tennis",
-        "home_team": "Jebens/Ho",
-        "away_team": "Andreozzi/Guinard",
+        "sport": "football",
+        "home_team": "Macau Chiba",
+        "away_team": "Cheng Fung",
         "score": "0-0",
-        "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/tennis/live/8034342/"
+        "time_minutes": 3,
+        "stream_url": "https://en12.sportplus.live/football/25787/8032545/"
     },
     {
-        "sport": "tennis",
-        "home_team": "Wang/Hsieh",
-        "away_team": "Mertens/Zhang",
-        "score": "40-0",
-        "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/tennis/live/8031765/"
-    },
-    {
-        "sport": "tennis",
-        "home_team": "Aoyama/Liang",
-        "away_team": "Birrell/Gibson",
-        "score": "15-15",
-        "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/tennis/live/8032551/"
-    },
-    {
-        "sport": "tennis",
-        "home_team": "Keegan Smith",
-        "away_team": "Zsombor Piros",
-        "score": "0-0",
-        "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/tennis/96453/8033947/"
-    },
-    {
-        "sport": "tennis",
-        "home_team": "Facundo Diaz Acosta",
-        "away_team": "Marco Cecchinato",
-        "score": "30-0",
-        "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/tennis/69629/8034396/"
-    },
-    {
-        "sport": "tennis",
-        "home_team": "Polina Kudermetova",
-        "away_team": "Liv Boulard",
-        "score": "0-0",
-        "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/tennis/2416268/8034517/"
-    },
-    {
-        "sport": "tennis",
-        "home_team": "Amandine Monnot",
-        "away_team": "Jasmijn Gimbrere",
-        "score": "0-0",
-        "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/tennis/2416268/8034518/"
-    },
-    {
-        "sport": "tennis",
-        "home_team": "Alicia Herrero Linana",
-        "away_team": "Dune Vaissaud",
-        "score": "15-30",
-        "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/tennis/2416268/8034674/"
-    },
-    {
-        "sport": "basketball",
-        "home_team": "Rwanda",
-        "away_team": "Nigeria",
-        "score": "9-15",
-        "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/basketball/2935292/8033528/"
-    },
-    {
-        "sport": "basketball",
-        "home_team": "Croatia U20 (Women)",
-        "away_team": "Israel U20 (Women)",
-        "score": "5-7",
-        "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/basketball/88693/8035873/"
-    },
-    {
-        "sport": "basketball",
-        "home_team": "Iceland U20 (Women)",
-        "away_team": "Poland U20 (Women)",
-        "score": "7-16",
-        "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/basketball/88693/8035875/"
-    },
-    {
-        "sport": "basketball",
-        "home_team": "Crypto Cobra",
-        "away_team": "Big Lion",
-        "score": "14-9",
-        "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/basketball/1038765/8036022/"
-    },
-    {
-        "sport": "volleyball",
-        "home_team": "Lions-Pro",
-        "away_team": "Enerdzhi-Pro",
+        "sport": "football",
+        "home_team": "Akron Tolyatti II",
+        "away_team": "Izhevsk",
         "score": "1-1",
+        "time_minutes": 49,
+        "stream_url": "https://en12.sportplus.live/football/2575084/8030163/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Dynamo Barnaul",
+        "away_team": "KDV",
+        "score": "0-2",
+        "time_minutes": 48,
+        "stream_url": "https://en12.sportplus.live/football/2575084/8030162/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Stellenbosch (Women)",
+        "away_team": "Dipclof Ladies (Women)",
+        "score": "0-1",
+        "time_minutes": 47,
+        "stream_url": "https://en12.sportplus.live/football/1918473/8032725/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Jeonnam Dragons",
+        "away_team": "Busan IPark",
+        "score": "1-0",
+        "time_minutes": 31,
+        "stream_url": "https://en12.sportplus.live/football/33137/8021240/"
+    },
+    {
+        "sport": "football",
+        "home_team": "GimPo",
+        "away_team": "Chungnam Asan",
+        "score": "0-0",
+        "time_minutes": 35,
+        "stream_url": "https://en12.sportplus.live/football/33137/8021239/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Gyeongnam",
+        "away_team": "Cheonan City",
+        "score": "0-0",
+        "time_minutes": 35,
+        "stream_url": "https://en12.sportplus.live/football/33137/8021237/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Gimhae City",
+        "away_team": "Seoul E-Land",
+        "score": "0-0",
+        "time_minutes": 35,
+        "stream_url": "https://en12.sportplus.live/football/33137/8021238/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Than KSVN (Women)",
+        "away_team": "Ho Chi Minh City (Women)",
+        "score": "0-1",
         "time_minutes": 0,
-        "stream_url": "https://en12.sportplus.live/volleyball/2141137/8035959/"
+        "stream_url": "https://en12.sportplus.live/football/164275/8033791/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Smorgon",
+        "away_team": "Volna Pinsk",
+        "score": "0-0",
+        "time_minutes": 5,
+        "stream_url": "https://en12.sportplus.live/football/1/8035926/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Ilves II",
+        "away_team": "EPS",
+        "score": "0-0",
+        "time_minutes": 5,
+        "stream_url": "https://en12.sportplus.live/football/1001047/8033708/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Rubin (Women)",
+        "away_team": "Dynamo Moscow (Women)",
+        "score": "1-1",
+        "time_minutes": 47,
+        "stream_url": "https://en12.sportplus.live/football/178119/8029628/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Ningbo Professional U20",
+        "away_team": "Beijing Guoan U20",
+        "score": "0-1",
+        "time_minutes": 5,
+        "stream_url": "https://en12.sportplus.live/football/2924494/8032668/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Namyangju Citizen",
+        "away_team": "Seoul Jungnang",
+        "score": "2-0",
+        "time_minutes": 3,
+        "stream_url": "https://en12.sportplus.live/football/live/8032550/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Guizhou Guiyang Athletic",
+        "away_team": "Jiangxi Lushan",
+        "score": "0-0",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/football/209499/8030406/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Tianjin Tiger U20",
+        "away_team": "Shanghai Shenhua U20",
+        "score": "0-0",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/football/2924494/8032669/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Meizhou Hakka",
+        "away_team": "Changchun Yatai",
+        "score": "0-0",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/football/202305/8027423/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Nanjing City",
+        "away_team": "Foshan Nanshi",
+        "score": "0-0",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/football/202305/8027424/"
     }
 ]
