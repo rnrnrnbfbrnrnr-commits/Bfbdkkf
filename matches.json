@@ -1,152 +1,218 @@
 [
     {
-        "id": 8029766,
-        "tournament": "Australia. New South Wales Premier League. Women",
-        "home_team": "Sydney Olympic (Women)",
-        "away_team": "Bulls Academy (Women)",
-        "score": "0-1",
-        "time_minutes": 88,
-        "status": "live",
-        "stream_url": "https://en12.sportplus.live/ru/live/Football/232919-Australia-New-South-Wales-Premier-League-Women/734164727-Sydney-Olympic-Women-Bulls-Academy-Women"
-    },
-    {
-        "id": 8027447,
-        "tournament": "China. Second League",
-        "home_team": "Shanxi Chongde Ronghai",
-        "away_team": "Shanghai Segenda",
-        "score": "1-0",
-        "time_minutes": 85,
-        "status": "live",
-        "stream_url": "https://en12.sportplus.live/ru/live/Football/209499-China-Second-League/734167695-Shanxi-Chongde-Ronghai-Shanghai-Segenda"
-    },
-    {
-        "id": 8027449,
-        "tournament": "China. Second League",
-        "home_team": "Xiamen Feilu",
-        "away_team": "Shenzhen 2028",
-        "score": "0-0",
-        "time_minutes": 86,
-        "status": "live",
-        "stream_url": "https://en12.sportplus.live/ru/live/Football/209499-China-Second-League/734167697-Xiamen-Feilu-Shenzhen-2028"
-    },
-    {
-        "id": 8030156,
-        "tournament": "Russian Championship. League 2. Division B. Group 4",
-        "home_team": "Ural II",
-        "away_team": "Chelyabinsk II",
-        "score": "1-2",
-        "time_minutes": 84,
-        "status": "live",
-        "stream_url": "https://en12.sportplus.live/ru/live/Football/2575084-Russian-Championship-League-2-Division-B-Group-4/734167622-Ural-II-Chelyabinsk-II"
-    },
-    {
-        "id": 8035814,
-        "tournament": "Australia. NPL Queensland. Women",
-        "home_team": "Brisbane City (Women)",
-        "away_team": "Eastern Suburbs (Women)",
-        "score": "1-0",
-        "time_minutes": 84,
-        "status": "live",
-        "stream_url": "https://en12.sportplus.live/ru/live/Football/2570510-Australia-NPL-Queensland-Women/734167698-Brisbane-City-Women-Eastern-Suburbs-Women"
-    },
-    {
-        "id": 8035815,
-        "tournament": "Japan. Regional League",
-        "home_team": "RKU Dragons Ryugasaki",
-        "away_team": "Edo All United",
-        "score": "1-1",
-        "time_minutes": 86,
-        "status": "live",
-        "stream_url": "https://en12.sportplus.live/ru/live/Football/1686759-Japan-Regional-League/734167694-RKU-Dragons-Ryugasaki-Edo-All-United"
-    },
-    {
-        "id": 8035924,
-        "tournament": "Vietnam Championship U21",
-        "home_team": "Hoang Anh Gia Lai U21",
-        "away_team": "TDTT Gia Lai U21",
-        "score": "6-2",
-        "time_minutes": 91,
-        "status": "live",
-        "stream_url": "https://en12.sportplus.live/ru/live/Football/249883-Vietnam-Championship-U21/734168748-Hoang-Anh-Gia-Lai-U21-TDTT-Gia-Lai-U21"
-    },
-    {
-        "id": 8032960,
-        "tournament": "China Championship U20",
-        "home_team": "Shaanxi Union U20",
-        "away_team": "Shenzhen Peng City U20",
-        "score": "0-0",
-        "time_minutes": 55,
-        "status": "live",
-        "stream_url": "https://en12.sportplus.live/ru/live/Football/2924494-China-Championship-U20/734172839-Shaanxi-Union-U20-Shenzhen-Peng-City-U20"
-    },
-    {
-        "id": 8032550,
-        "tournament": "South Korea Cup",
-        "home_team": "Namyangju Citizen",
-        "away_team": "Seoul Jungnang",
-        "score": "2-0",
-        "time_minutes": 44,
-        "status": "live",
-        "stream_url": "https://en12.sportplus.live/ru/live/Football/68573-South-Korea-Cup/734178091-Namyangju-Citizen-Seoul-Jungnang"
-    },
-    {
-        "id": 8032458,
-        "tournament": "South Korea Cup",
-        "home_team": "Geoje",
-        "away_team": "Incheon Seogot",
-        "score": "1-0",
-        "time_minutes": 42,
-        "status": "live",
-        "stream_url": "https://en12.sportplus.live/ru/live/Football/68573-South-Korea-Cup/734179282-Geoje-Incheon-Seogot"
-    },
-    {
-        "id": 8035287,
-        "tournament": "China. Superleague. Women",
+        "sport": "football",
         "home_team": "Changchun Dazhong Zhuoyue (Women)",
         "away_team": "Guangdong Province (Women)",
         "score": "0-0",
-        "time_minutes": 45,
-        "status": "live",
-        "stream_url": "https://en12.sportplus.live/ru/live/Football/2536179-China-Superleague-Women/734177706-Changchun-Dazhong-Zhuoyue-Women-Guangdong-Province-Women"
+        "time_minutes": 78,
+        "stream_url": "https://en12.sportplus.live/football/2536179/8035287/"
     },
     {
-        "id": 8036039,
-        "tournament": "Belarus. Division 2",
-        "home_team": "Vilia Vileyka",
-        "away_team": "Krupki-DRSU-164",
+        "sport": "football",
+        "home_team": "Geoje",
+        "away_team": "Incheon Seogot",
+        "score": "1-0",
+        "time_minutes": 73,
+        "stream_url": "https://en12.sportplus.live/football/live/8032458/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Namyangju Citizen",
+        "away_team": "Seoul Jungnang",
+        "score": "2-0",
+        "time_minutes": 74,
+        "stream_url": "https://en12.sportplus.live/football/live/8032550/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Busan Transportation Corporation",
+        "away_team": "Gijang United",
+        "score": "2-0",
+        "time_minutes": 36,
+        "stream_url": "https://en12.sportplus.live/football/live/8032457/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Pyeongtaek Citizens",
+        "away_team": "Yeoju",
+        "score": "1-1",
+        "time_minutes": 35,
+        "stream_url": "https://en12.sportplus.live/football/live/8032470/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Gyeongju KHNP",
+        "away_team": "Seosan Pioneer",
         "score": "2-0",
         "time_minutes": 38,
-        "status": "live",
-        "stream_url": "https://en12.sportplus.live/ru/live/Football/1194719-Belarus-Division-2/734180259-Vilia-Vileyka-Krupki-DRSU-164"
+        "stream_url": "https://en12.sportplus.live/football/live/8032471/"
     },
     {
-        "id": 8035906,
-        "tournament": "Japan. Regional League",
-        "home_team": "Tokyo United",
-        "away_team": "Nankatsu",
+        "sport": "football",
+        "home_team": "Seoul",
+        "away_team": "Incheon United",
         "score": "0-0",
-        "time_minutes": 44,
-        "status": "live",
-        "stream_url": "https://en12.sportplus.live/ru/live/Football/1686759-Japan-Regional-League/734177710-Tokyo-United-Nankatsu"
+        "time_minutes": 6,
+        "stream_url": "https://en12.sportplus.live/football/live/8021242/"
     },
     {
-        "id": 8035907,
-        "tournament": "Japan. Regional League",
-        "home_team": "Toho Titanium",
-        "away_team": "Shibuya City",
-        "score": "2-0",
-        "time_minutes": 45,
-        "status": "live",
-        "stream_url": "https://en12.sportplus.live/ru/live/Football/1686759-Japan-Regional-League/734177711-Toho-Titanium-Shibuya-City"
-    },
-    {
-        "id": 8033790,
-        "tournament": "Vietnam Championship. Women",
-        "home_team": "Ha Noi (Women)",
-        "away_team": "Phong Phu Ha Nam (Women)",
+        "sport": "football",
+        "home_team": "Gwangju",
+        "away_team": "Ulsan Hyundai",
         "score": "0-0",
-        "time_minutes": 46,
-        "status": "live",
-        "stream_url": "https://en12.sportplus.live/ru/live/Football/164275-Vietnam-Championship-Women/734177708-Ha-Noi-Women-Phong-Phu-Ha-Nam-Women"
+        "time_minutes": 6,
+        "stream_url": "https://en12.sportplus.live/football/live/8021243/"
+    },
+    {
+        "sport": "football",
+        "home_team": "Gimcheon Sangmu",
+        "away_team": "Jeju SK",
+        "score": "0-0",
+        "time_minutes": 5,
+        "stream_url": "https://en12.sportplus.live/football/live/8021244/"
+    },
+    {
+        "sport": "football",
+        "home_team": "RTC",
+        "away_team": "Ugyen Academy",
+        "score": "0-0",
+        "time_minutes": 35,
+        "stream_url": "https://en12.sportplus.live/football/1226377/8032654/"
+    },
+    {
+        "sport": "hockey",
+        "home_team": "Sparta Krasnoyarsk",
+        "away_team": "Gornyak Chelyabinsk",
+        "score": "0-0",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/hockey/2454428/8036141/"
+    },
+    {
+        "sport": "hockey",
+        "home_team": "Akuly Kaliningrad",
+        "away_team": "Zvezda Samara",
+        "score": "1-0",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/hockey/2454428/8036159/"
+    },
+    {
+        "sport": "tennis",
+        "home_team": "Patten/Heliovaara",
+        "away_team": "Pavlasek/Rikl",
+        "score": "0-0",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/tennis/live/8031493/"
+    },
+    {
+        "sport": "tennis",
+        "home_team": "Krawietz/Puetz",
+        "away_team": "Cabral/Miedler",
+        "score": "40-40",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/tennis/live/8031495/"
+    },
+    {
+        "sport": "tennis",
+        "home_team": "Jebens/Ho",
+        "away_team": "Andreozzi/Guinard",
+        "score": "0-0",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/tennis/live/8034342/"
+    },
+    {
+        "sport": "tennis",
+        "home_team": "Wang/Hsieh",
+        "away_team": "Mertens/Zhang",
+        "score": "40-0",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/tennis/live/8031765/"
+    },
+    {
+        "sport": "tennis",
+        "home_team": "Aoyama/Liang",
+        "away_team": "Birrell/Gibson",
+        "score": "15-15",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/tennis/live/8032551/"
+    },
+    {
+        "sport": "tennis",
+        "home_team": "Keegan Smith",
+        "away_team": "Zsombor Piros",
+        "score": "0-0",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/tennis/96453/8033947/"
+    },
+    {
+        "sport": "tennis",
+        "home_team": "Facundo Diaz Acosta",
+        "away_team": "Marco Cecchinato",
+        "score": "30-0",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/tennis/69629/8034396/"
+    },
+    {
+        "sport": "tennis",
+        "home_team": "Polina Kudermetova",
+        "away_team": "Liv Boulard",
+        "score": "0-0",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/tennis/2416268/8034517/"
+    },
+    {
+        "sport": "tennis",
+        "home_team": "Amandine Monnot",
+        "away_team": "Jasmijn Gimbrere",
+        "score": "0-0",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/tennis/2416268/8034518/"
+    },
+    {
+        "sport": "tennis",
+        "home_team": "Alicia Herrero Linana",
+        "away_team": "Dune Vaissaud",
+        "score": "15-30",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/tennis/2416268/8034674/"
+    },
+    {
+        "sport": "basketball",
+        "home_team": "Rwanda",
+        "away_team": "Nigeria",
+        "score": "9-15",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/basketball/2935292/8033528/"
+    },
+    {
+        "sport": "basketball",
+        "home_team": "Croatia U20 (Women)",
+        "away_team": "Israel U20 (Women)",
+        "score": "5-7",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/basketball/88693/8035873/"
+    },
+    {
+        "sport": "basketball",
+        "home_team": "Iceland U20 (Women)",
+        "away_team": "Poland U20 (Women)",
+        "score": "7-16",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/basketball/88693/8035875/"
+    },
+    {
+        "sport": "basketball",
+        "home_team": "Crypto Cobra",
+        "away_team": "Big Lion",
+        "score": "14-9",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/basketball/1038765/8036022/"
+    },
+    {
+        "sport": "volleyball",
+        "home_team": "Lions-Pro",
+        "away_team": "Enerdzhi-Pro",
+        "score": "1-1",
+        "time_minutes": 0,
+        "stream_url": "https://en12.sportplus.live/volleyball/2141137/8035959/"
     }
 ]
